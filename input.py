@@ -3,4 +3,4 @@ while True:
     if name != "":
         print(f"Sie heißen {name}!")
     else:
-        break
+        break #Wozu dient das break?
