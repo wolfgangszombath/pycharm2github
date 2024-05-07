@@ -1,6 +1,6 @@
 while True:
-    name = input("Namen?")
+    name = input("Geben Sie Ihren Nachnamen ein!")
     if name != "":
         print(f"Sie heißen {name}!")
     else:
-        break #Wozu dient das break?
+        break
